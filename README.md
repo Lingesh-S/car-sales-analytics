@@ -95,11 +95,11 @@ Open the .pbix file in Power BI Desktop to explore the full interactive dashboar
 
 ---
 
-##🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 ![CAR_SALES](https://github.com/user-attachments/assets/a60efe2f-ed62-4f9c-9612-643b61b1e63c)
 
 ---
-👤 Author
+## 👤 Author
 Lingesh S
 Aspiring Data Analyst | Python • SQL • Power BI
 🔗 GitHub
@@ -107,7 +107,7 @@ Aspiring Data Analyst | Python • SQL • Power BI
 
 ---
 
-⭐️ Support
+## ⭐️ Support
 If this project helped you or inspired your own learning, consider giving it a star ⭐ and sharing!
 ---
 
