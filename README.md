@@ -2,7 +2,6 @@
 
 This repository contains a **comprehensive analysis of car sales data** using **Python**, **SQL**, and **Power BI**. The goal is to uncover **actionable insights** into sales trends, dealer performance, and customer demographics, enabling **strategic, data-driven decisions**.
 
-
 ---
 
 ## 📊 Project Overview
