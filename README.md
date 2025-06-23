@@ -100,7 +100,7 @@ Open the .pbix file in Power BI Desktop to explore the full interactive dashboar
 
 ---
 ## 👤 Author
-Lingesh S
+**Lingesh S**  
 Aspiring Data Analyst | Python • SQL • Power BI
 🔗 GitHub
 🔗 LinkedIn
