@@ -75,7 +75,6 @@ car-sales-analytics/
 ├── screenshots/ # Dashboard preview images
 └── README.md # Project overview and documentation
 
-
 ---
 
 ## 🚀 Getting Started
