@@ -92,6 +92,7 @@ Open .sql files to review the business insights logic.
 4. Launch Dashboard
 Open the .pbix file in Power BI Desktop to explore the full interactive dashboard.
 
+
 ---
 
 ## 🖼️ Dashboard Preview
