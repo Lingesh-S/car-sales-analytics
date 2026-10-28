@@ -65,33 +65,39 @@ The dataset contains rich information about car sales. Key fields include:
 
 ---
 
-## 📁 Folder Structure
+## 📁 Files
 
+```text
 car-sales-analytics/
-├── data/ # Raw and cleaned datasets (CSV)
-├── sql/ # SQL query files
-├── python/ # Python notebooks/scripts for preprocessing & EDA
-├── dashboard/ # Power BI file (.pbix)
-├── screenshots/ # Dashboard preview images
-└── README.md # Project overview and documentation
+├── Car_Sales_Using_Python.ipynb   # Cleaning, feature prep and EDA (pandas, NumPy, scikit-learn)
+├── Car_Sales_Using_SQL.sql        # KPI queries: revenue, dealers, demographics
+├── DASHBOARD.pbix                 # Main Power BI dashboard
+├── car_sales_visuals.pbix         # Additional Power BI visuals
+└── README.md
+```
+
+The dataset is not stored in this repo. Download the car sales CSV (columns listed above) and save it as
+`data/car_sales.csv` before running the notebook.
 
 ---
 
 ## 🚀 Getting Started
 
-1. **Clone the Repository**
+1. **Clone the repository**
+
    ```bash
    git clone https://github.com/Lingesh-S/car-sales-analytics.git
    cd car-sales-analytics
-2. Run Python Scripts
-Use Jupyter or VS Code to run scripts inside the python/ folder for data preprocessing and EDA.
+   mkdir data   # put car_sales.csv here
+   ```
 
-3. Explore SQL Queries
-Open .sql files to review the business insights logic.
+2. **Run the Python analysis:** open `Car_Sales_Using_Python.ipynb` in Jupyter, VS Code or Colab
+   (`pip install pandas numpy scikit-learn`).
 
-4. Launch Dashboard
-Open the .pbix file in Power BI Desktop to explore the full interactive dashboard.
+3. **Explore the SQL queries:** load the CSV into a table named `car_sales` (PostgreSQL or MySQL) and run
+   `Car_Sales_Using_SQL.sql`.
 
+4. **Open the dashboard:** open `DASHBOARD.pbix` in Power BI Desktop.
 
 ---
 
